@@ -10,35 +10,28 @@ lang: ko
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Seoul
-
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
-
-title: webs9919
-
-tagline: Developer webs9919
+title: webstoryboy
+tagline: Developer
 
 description: hi!😊
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://webs9919.github.io"
+url: "https://webstoryboy.github.io"
 
 github:
-  username: webs9919 # change to your github username
+  username: webstoryboy # change to your github username
 
 twitter:
-  username: webs9919 # change to your twitter username
+  username: webstoryboy # change to your twitter username
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: webs9919
-  email: webs9919@naver.com # change to your email address
+  name: webstoryboy
+  email: webstoryboy@naver.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/webs9919 # change to your twitter homepage
-    - https://github.com/webs9919 # change to your github homepage
+    - https://twitter.com/webstoryboy # change to your twitter homepage
+    - https://github.com/webstoryboy # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
